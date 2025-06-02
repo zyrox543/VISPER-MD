@@ -16,7 +16,7 @@
 
 ## 👩‍💻 VISPER MD Team - VisperInc *[Since 2025]*
 
-| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png" width=80 height=80></a> | <a href="https://github.com/themisadas"><img src="https://i.ibb.co/twGhKscZ/jpg.jpg" width=80 height=80></a> |
+| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png"></a> | <a href="https://github.com/themisadas"><img src="https://i.ibb.co/twGhKscZ/jpg.jpg" width=80 height=80></a> |
 |---|---|
 | **[Savithu Induwara](https://github.com/Saviyskolla)**</br>Founder & Developer | **[Themi Sadas](https://github.com/THEMISADAS2007)**</br>Co-Developer |
 
